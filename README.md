@@ -6,6 +6,24 @@ It is a meta-collection of tools that we have developed for these purposes
 
 ## Live demos
 
+### BRAF 3-D structure connected with genome
+
+See https://jbrowse.org/demos/app/?session=share-SyUYMmF2R3&password=0ycYQ
+
+### BRAF multiple sequence alignment connected with genome
+
+See https://jbrowse.org/demos/app/?session=share-IUdmod8VB7&password=MKfuU 
+
+### BRAF 1-D protein annotations view
+
+Live link https://jbrowse.org/demos/app/?session=share-YYu64eFQ3U&password=sDims 
+
+
+### Multiple protein structure superposition
+
+Live link https://jbrowse.org/demos/app/?session=share-9eVzKwMc5f&password=45RcZ 
+
+
 
 ### React-msaview standalone app
 
