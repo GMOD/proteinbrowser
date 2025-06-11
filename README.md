@@ -1,4 +1,4 @@
-# proteinbrowse
+# proteinbrowser - Resources for visualizing 3-D protein structures and multiple sequence alignments using JBrowse 2
 
 This page is a collection of resources for our paper "Proteins in the Genome Browser"
 
