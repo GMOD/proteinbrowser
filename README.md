@@ -2,7 +2,12 @@
 
 This page is a collection of resources for our paper "Proteins in the Genome Browser"
 
-It is a meta-collection of tools that we have developed for these purposes
+Note: this resource is a meta-collection of multiple tools that we have developed which includes
+
+- Standalone web apps (JBrowse 2 genome hubs, Ensembl GeneTree browser, UniProt browser)
+- Re-usable JBrowse 2 plugins (jbrowse-plugin-protein3d, jbrowse-plugin-msaview)
+- Re-usable NPM packages (react-msaview)
+
 
 ## Screenshots
 
@@ -13,12 +18,15 @@ It is a meta-collection of tools that we have developed for these purposes
 ![image5](https://github.com/user-attachments/assets/7f52de03-0a2b-47fb-95f6-bb4505185487)
 
 
+## Resources
 
-### Multiple protein structure superposition
+### JBrowse 2 genome hubs
+
+We have a live instance of JBrowse 2 with the protein3d and react-msaview plugins pre-installed for human data here
 
 Live link https://jbrowse.org/demos/app/?session=share-9eVzKwMc5f&password=45RcZ 
 
-
+You can right-click a gene of interest and launch a MSA or 3-D protein viewer
 
 ### React-msaview standalone app
 
