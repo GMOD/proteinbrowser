@@ -13,7 +13,7 @@ This page is a collection of resources for our paper "Proteins in the Genome Bro
 
 ## Web server resources
 
-- JBrowse 2 instances with protein plugins loaded. You can right-click and gene-of-interest to launch an MSA or 3-D protein viewer https://jbrowse.org/demos/app/
+- JBrowse 2 instances with protein plugins loaded. You can right-click any gene-of-interest to launch an MSA or 3-D protein viewer https://jbrowse.org/demos/app/
 - React-msaview standalone app. This app demonstrates our MSA viewer functionality (no JBrowse 2 integration) https://gmod.org/react-msaview/
 - Ensembl Compara and TreeFam browser. This app provides a simple method to load data from Ensembl Compara Gene Trees and TreeFam into our app https://jbrowse.org/demos/msafam/
 - Uniprot Browser. This app accesses the Uniprot API to get protein annotations https://cmdcolin.github.io/uniprot_browser
