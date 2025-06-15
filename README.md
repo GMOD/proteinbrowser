@@ -1,11 +1,6 @@
 # proteinbrowser - Resources for visualizing 3-D protein structures and multiple sequence alignments using JBrowse 2
 
-This page is a collection of resources for our paper "Proteins in the Genome Browser" (in prep), including:
-
-- Standalone web apps (JBrowse 2 genome hubs, Ensembl GeneTree browser, UniProt browser)
-- Re-usable JBrowse 2 plugins (jbrowse-plugin-protein3d, jbrowse-plugin-msaview)
-- Re-usable NPM packages (react-msaview)
-
+This page is a collection of resources for our paper "Proteins in the Genome Browser" (in prep)
 
 ## Screenshots
 
