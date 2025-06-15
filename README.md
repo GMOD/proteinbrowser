@@ -27,20 +27,14 @@ This page is a collection of resources for our paper "Proteins in the Genome Bro
 
 ### JBrowse 2 plugins 
 
-We created two independent JBrowse 2 plugins for enabling protein browsing:
+We created two independent JBrowse 2 plugins for enabling protein browsing. Users can install these plugins via the in-app plugin store, or administrators can install the plugin for all their users:
 
-- jbrowse-plugin-msaview - programmatically integrates react-msaview into JBrowse 2 for re-use, allows querying NCBI BLAST
-- jbrowse-plugin-protein3d - programmatically integrates Mol* 3-D protein structure views, allows querying AlphaFoldDB and UniProt
-
-Users can install these plugins via the in-app plugin store via a click of a button
-
-Administrators can also pre-load the plugin for all their users
+- [jbrowse-plugin-msaview](https://github.com/GMOD/jbrowse-plugin-msaview) - programmatically integrates react-msaview into JBrowse 2 for re-use, allows querying NCBI BLAST
+- [jbrowse-plugin-protein3d](https://github.com/GMOD/jbrowse-plugin-protein3d) - programmatically integrates Mol* 3-D protein structure views, allows querying AlphaFoldDB and UniProt
 
 ### User guide/developer guide for the react-msaview
 
-A short user guide for react-msaview is available here. 
-
-It is a fairly feature rich and complex MSA viewer. Here is the user guide
+A short user guide for react-msaview is available here
 
 https://github.com/GMOD/react-msaview/blob/main/docs/user_guide.md
 
