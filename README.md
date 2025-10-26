@@ -44,8 +44,6 @@ https://github.com/GMOD/JBrowseMSA/blob/main/docs/user_guide.md
 ## Live demos
 
 - BRAF 3-D structure connected with genome -
-  https://jbrowse.org/demos/app/?session=share-SyUYMmF2R3&password=0ycYQ
-- BRAF multiple sequence alignment connected with genome -
-  https://jbrowse.org/demos/app/?session=share-IUdmod8VB7&password=MKfuU
+  https://jbrowse.org/code/jb2/main/?config=%2Fucsc%2Fhg38%2Fconfig.json&session=share-oZc6gP5zSQ&password=zFvQi
 - BRAF 1-D protein annotations view -
-  https://jbrowse.org/demos/app/?session=share-YYu64eFQ3U&password=sDims
+  https://jbrowse.org/code/jb2/main/?config=%2Fucsc%2Fhg38%2Fconfig.json&session=share-xgw4Y7Xoby&password=SMk7u
