@@ -1,6 +1,6 @@
 # proteinbrowser - Resources for visualizing 3-D protein structures and multiple sequence alignments using JBrowse 2
 
-This page is a collection of resources for our paper "JBrowseMSA" (in prep)
+This page is a collection of resources for our paper "Proteins in the Genome Browser" (in prep)
 
 ## Screenshots
 
@@ -10,7 +10,7 @@ This page is a collection of resources for our paper "JBrowseMSA" (in prep)
 
 ## Main web server
 
-- JBrowse 2 instances with 3-D protein structure and MSA plugins loaded. You can
+- We created JBrowse 2 instances for many species of interest (including human with hg19, hg38, and the T2T hs1 assembly) with jbrowse-plugin-protein3d and jbrowse-plugin-msaview loaded by default. You can
   right-click any gene-of-interest to launch an MSA or 3-D protein viewer
   https://genomes.jbrowse.org
 
@@ -47,3 +47,7 @@ https://github.com/GMOD/JBrowseMSA/blob/main/docs/user_guide.md
   https://jbrowse.org/code/jb2/main/?config=%2Fucsc%2Fhg38%2Fconfig.json&session=share-oZc6gP5zSQ&password=zFvQi
 - BRAF 1-D protein annotations view -
   https://jbrowse.org/code/jb2/main/?config=%2Fucsc%2Fhg38%2Fconfig.json&session=share-xgw4Y7Xoby&password=SMk7u
+
+## Footnote
+
+Please feel free to contact us (https://jbrowse.org/jb2/contact) or make a github issue here if you have any questions or bug reports
