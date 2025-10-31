@@ -8,6 +8,8 @@ This page is a collection of resources for our paper "Proteins in the Genome Bro
 
 ![image5](https://github.com/user-attachments/assets/7f52de03-0a2b-47fb-95f6-bb4505185487)
 
+<img width="1475" height="929" alt="k1" src="https://github.com/user-attachments/assets/f17265d1-8991-4544-9135-cc7dbb3f7d03" />
+
 ## Main web server
 
 - We created JBrowse 2 instances for many species of interest (including human with hg19, hg38, and the T2T hs1 assembly) with jbrowse-plugin-protein3d and jbrowse-plugin-msaview loaded by default. You can
