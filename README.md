@@ -13,8 +13,8 @@ This page is a collection of resources for our paper "Proteins in the Genome Bro
 ## Main web server
 
 - We created JBrowse 2 instances for many species of interest (including human with hg19, hg38, and the T2T hs1 assembly) with jbrowse-plugin-protein3d and jbrowse-plugin-msaview loaded by default. You can
-  right-click any gene-of-interest to launch an MSA or 3-D protein viewer
-  https://genomes.jbrowse.org
+  right-click any gene-of-interest to launch an MSA or 3-D protein viewer for the human browsers at 
+  https://genomes.jbrowse.org (other species being worked on)
 
 ## Other demos
 
