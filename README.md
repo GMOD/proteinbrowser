@@ -49,7 +49,6 @@ https://github.com/GMOD/JBrowseMSA/blob/main/docs/user_guide.md
   https://jbrowse.org/code/jb2/main/?config=%2Fucsc%2Fhg38%2Fconfig.json&session=share-oZc6gP5zSQ&password=zFvQi
 - BRAF 1-D protein annotations view -
   https://jbrowse.org/code/jb2/main/?config=%2Fucsc%2Fhg38%2Fconfig.json&session=share-xgw4Y7Xoby&password=SMk7u
-- SHH with full linear genome view of gene, collapsed intron representation of gene, and 3-D protein structure http://localhost:3000/?config=http%3A%2F%2Flocalhost%3A9000%2Fconfig.json&session=share-bLkDEzSo8K&password=e7FbY
 
 ## Footnote
 
