@@ -1,6 +1,13 @@
 # proteinbrowser
 
-This page is a collection of resources for our paper "Proteins in the Genome Browser: integration of phylogenies, alignments, and structures with nucleotide-level evidence in JBrowse 2" (in prep)
+This page is a collection of resources for our "Proteins in the Genome Browser"
+paper published in the Journal of Molecular Biology. If you find this tool
+useful please cite our work
+
+Diesh, C., Stevens, G., Bridge, C., Hogue, G., Buels, R., Cain, S., Stein, L., &
+Holmes, I. (2026). Proteins in the Genome Browser: Integration of Phylogenies,
+Alignments, and Structures With Nucleotide-level Evidence in JBrowse 2. Journal
+of Molecular Biology, 169645. https://doi.org/10.1016/j.jmb.2026.169645
 
 ## Screenshots
 
@@ -12,9 +19,9 @@ This page is a collection of resources for our paper "Proteins in the Genome Bro
 
 ## Main web server
 
-- We created JBrowse 2 instances for many species of interest (including human with hg19, hg38, and the T2T hs1 assembly) with jbrowse-plugin-protein3d and jbrowse-plugin-msaview loaded by default. You can
-  right-click any gene-of-interest to launch an MSA or 3-D protein viewer for the human browsers at 
-  https://genomes.jbrowse.org (other species being worked on)
+- JBrowse 2 instances with 3-D protein structure and MSA plugins loaded. You can
+  right-click any gene-of-interest to launch an MSA or 3-D protein viewer
+  https://genomes.jbrowse.org
 
 ## Other demos
 
@@ -49,7 +56,10 @@ https://github.com/GMOD/JBrowseMSA/blob/main/docs/user_guide.md
   https://jbrowse.org/code/jb2/main/?config=%2Fucsc%2Fhg38%2Fconfig.json&session=share-oZc6gP5zSQ&password=zFvQi
 - BRAF 1-D protein annotations view -
   https://jbrowse.org/code/jb2/main/?config=%2Fucsc%2Fhg38%2Fconfig.json&session=share-xgw4Y7Xoby&password=SMk7u
+- BRAF V600
+  https://jbrowse.org/code/jb2/main/?config=%2Fucsc%2Fhg38%2Fconfig.json&session=share-muppi_-WsU&password=tvhMa
 
 ## Footnote
 
-Please feel free to contact us (https://jbrowse.org/jb2/contact) or make a github issue here if you have any questions or bug reports
+Please feel free to contact us (https://jbrowse.org/jb2/contact) or make a
+github issue here if you have any questions or bug reports
