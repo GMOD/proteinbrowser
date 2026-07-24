@@ -20,22 +20,17 @@ paper.
 
 ## Screenshots
 
-![image2](https://github.com/user-attachments/assets/a9ac296c-e2fe-41c7-bf7d-d519548eb046)
+[![Gene Explorer headline](img/2.png)](https://gmod.org/JBrowseMSA/gene-explorer/?gene=PTEN)
 
-![image5](https://github.com/user-attachments/assets/7f52de03-0a2b-47fb-95f6-bb4505185487)
+![](img/1.png)
 
-<img width="1475" height="929" alt="k1" src="https://github.com/user-attachments/assets/f17265d1-8991-4544-9135-cc7dbb3f7d03" />
-
-## Main web server
+## Other ways to access the protein browser
 
 - [genomes.jbrowse.org](https://genomes.jbrowse.org) — JBrowse 2 instances with
   the 3-D protein structure and MSA plugins loaded. Right-click any gene of
   interest to launch an MSA or 3-D protein viewer.
-
-## Other demos
-
-- [Ensembl Compara and TreeFam browser](https://jbrowse.org/demos/msafam/) — load
-  data from Ensembl Compara Gene Trees and TreeFam.
+- [Ensembl Compara and TreeFam browser](https://jbrowse.org/demos/msafam/) —
+  load data from Ensembl Compara Gene Trees and TreeFam.
 - [Uniprot Browser](https://cmdcolin.github.io/uniprot_browser) — accesses the
   UniProt API to retrieve protein annotations.
 
@@ -48,19 +43,13 @@ administrators can install them for all their users:
 - [jbrowse-plugin-msaview](https://github.com/GMOD/jbrowse-plugin-msaview) —
   integrates react-msaview into JBrowse 2 and supports querying NCBI BLAST.
 - [jbrowse-plugin-protein3d](https://github.com/GMOD/jbrowse-plugin-protein3d) —
-  integrates Mol\* 3-D protein structure views and supports querying AlphaFold DB
-  and UniProt.
+  integrates Mol\* 3-D protein structure views and supports querying AlphaFold
+  DB and UniProt.
 
 ## User and developer guide
 
-A short user guide for JBrowseMSA is available at
-https://github.com/GMOD/JBrowseMSA/blob/main/docs/user_guide.md
-
-## Live demos
-
-- [BRAF 3-D structure connected with genome](https://jbrowse.org/code/jb2/main/?config=%2Fucsc%2Fhg38%2Fconfig.json&session=share-oZc6gP5zSQ&password=zFvQi)
-- [BRAF 1-D protein annotations view](https://jbrowse.org/code/jb2/main/?config=%2Fucsc%2Fhg38%2Fconfig.json&session=share-xgw4Y7Xoby&password=SMk7u)
-- [BRAF V600](https://jbrowse.org/code/jb2/main/?config=%2Fucsc%2Fhg38%2Fconfig.json&session=share-muppi_-WsU&password=tvhMa)
+User guide and developer docs for JBrowseMSA are available at
+https://gmod.org/JBrowseMSA/
 
 ## Contact
 
