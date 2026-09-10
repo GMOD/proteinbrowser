@@ -23,8 +23,7 @@ back to back in a linear genome view, an AlphaFold or PDB structure, and a
 cross-species protein alignment. Hover a residue and its codon lights up in
 every view. The page reads a `?gene=` parameter, so
 [?gene=PTEN](https://staging.genomes.jbrowse.org/protein-browser/?gene=PTEN)
-arrives with the gene already resolved. The demo is on the staging site today,
-and moves to genomes.jbrowse.org when it ships.
+arrives with the gene already resolved.
 
 ## Screenshots
 
@@ -119,6 +118,11 @@ shows per gene, from these services:
 
 User guide and developer docs for JBrowseMSA are at
 https://gmod.org/JBrowseMSA/.
+
+## License
+
+MIT, in [LICENSE](LICENSE). Each repository in the table above carries its own
+license.
 
 ## Contact
 
