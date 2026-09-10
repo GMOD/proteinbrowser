@@ -13,7 +13,7 @@ If you find these tools useful, please cite our work:
 
 ## Featured demo
 
-The [JBrowseMSA Gene Explorer](https://gmod.org/JBrowseMSA/gene-explorer/)
+The [Protein Browser](https://staging.genomes.jbrowse.org/protein-browser/) demo
 auto-launches a linked view combining a multiple sequence alignment (MSA), a 3-D
 protein structure, and a linear genome view — the graphical abstract of our
 paper.
