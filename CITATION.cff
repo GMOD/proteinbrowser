@@ -1,0 +1,72 @@
+cff-version: 1.2.0
+title: proteinbrowser
+message: >-
+  If you use these tools, please cite the article in preferred-citation.
+abstract: >-
+  This repository collects the demos, JBrowse 2 plugins and source repositories
+  behind the paper "Proteins in the Genome Browser," which integrate protein
+  structures, multiple sequence alignments and phylogenies with nucleotide-level
+  evidence in JBrowse 2.
+type: software
+repository-code: https://github.com/GMOD/proteinbrowser
+url: https://github.com/GMOD/proteinbrowser
+authors:
+  - family-names: Diesh
+    given-names: Colin
+    orcid: https://orcid.org/0000-0003-2629-7570
+    affiliation: University of California, Berkeley
+  - family-names: Stevens
+    given-names: Garrett
+    orcid: https://orcid.org/0000-0002-9781-5323
+    affiliation: University of California, Berkeley
+  - family-names: Bridge
+    given-names: Caroline
+    affiliation: Ontario Institute for Cancer Research
+  - family-names: Hogue
+    given-names: Gregory
+    affiliation: Ontario Institute for Cancer Research
+  - family-names: Buels
+    given-names: Robert
+    affiliation: University of California, Berkeley
+  - family-names: Cain
+    given-names: Scott
+    affiliation: Ontario Institute for Cancer Research
+  - family-names: Stein
+    given-names: Lincoln
+    affiliation: Ontario Institute for Cancer Research
+  - family-names: Holmes
+    given-names: Ian
+    affiliation: University of California, Berkeley
+preferred-citation:
+  type: article
+  title: >-
+    Proteins in the Genome Browser: Integration of Phylogenies, Alignments, and
+    Structures With Nucleotide-level Evidence in JBrowse 2
+  authors:
+    - family-names: Diesh
+      given-names: Colin
+      orcid: https://orcid.org/0000-0003-2629-7570
+    - family-names: Stevens
+      given-names: Garrett
+      orcid: https://orcid.org/0000-0002-9781-5323
+    - family-names: Bridge
+      given-names: Caroline
+    - family-names: Hogue
+      given-names: Gregory
+    - family-names: Buels
+      given-names: Robert
+    - family-names: Cain
+      given-names: Scott
+    - family-names: Stein
+      given-names: Lincoln
+    - family-names: Holmes
+      given-names: Ian
+  journal: Journal of Molecular Biology
+  volume: 438
+  issue: 18
+  start: 169645
+  year: 2026
+  month: 9
+  issn: 0022-2836
+  doi: 10.1016/j.jmb.2026.169645
+  url: https://doi.org/10.1016/j.jmb.2026.169645
