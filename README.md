@@ -17,17 +17,17 @@ form.
 
 ## Featured demo
 
-The [Protein Browser](https://staging.genomes.jbrowse.org/protein-browser/)
+The [Protein Browser](https://genomes.jbrowse.org/protein-browser/)
 takes a gene symbol and opens a connected JBrowse 2 session: the coding exons
 back to back in a linear genome view, an AlphaFold or PDB structure, and a
 cross-species protein alignment. Hover a residue and its codon lights up in
 every view. The page reads a `?gene=` parameter, so
-[?gene=PTEN](https://staging.genomes.jbrowse.org/protein-browser/?gene=PTEN)
+[?gene=PTEN](https://genomes.jbrowse.org/protein-browser/?gene=PTEN)
 arrives with the gene already resolved.
 
 ## Screenshots
 
-[![The session the Protein Browser builds for PTEN: hg38 with the introns collapsed, the 100-way vertebrate alignment, and the AlphaFold model, all linked](img/1.png)](https://staging.genomes.jbrowse.org/protein-browser/?gene=PTEN)
+[![The session the Protein Browser builds for PTEN: hg38 with the introns collapsed, the 100-way vertebrate alignment, and the AlphaFold model, all linked](img/1.png)](https://genomes.jbrowse.org/protein-browser/?gene=PTEN)
 
 JBrowseMSA has a launcher of its own that builds the same three views. It is not
 deployed yet:
@@ -133,4 +133,4 @@ you have any questions or bug reports.
   https://jbrowse.org/code/jb2/latest/?config=%2Fucsc%2Fhg38%2Fconfig.json&session=spec-%7B%22views%22%3A%5B%7B%22type%22%3A%22ProteinView%22%2C%22structures%22%3A%5B%7B%22uniprotId%22%3A%22P15056%22%2C%22initialResidues%22%3A%7B%22start%22%3A600%2C%22end%22%3A600%7D%7D%5D%2C%22transcriptId%22%3A%22NM_004333.6%22%2C%22sideBySide%22%3Atrue%2C%22zoomToBaseLevel%22%3Afalse%2C%22connectedView%22%3A%7B%22assembly%22%3A%22hg38%22%2C%22loc%22%3A%22chr7%3A140%2C753%2C280-140%2C753%2C400%22%2C%22tracks%22%3A%5B%22hg38-ncbiRefSeqSelect%22%2C%22hg38-clinvarMain%22%5D%7D%7D%5D%7D
 [fig1d]:
   https://jbrowse.org/code/jb2/latest/?config=%2Fucsc%2Fhg38%2Fconfig.json&session=spec-%7B%22views%22%3A%5B%7B%22type%22%3A%22ProteinView%22%2C%22structures%22%3A%5B%7B%22uniprotId%22%3A%22P60484%22%7D%2C%7B%22uniprotId%22%3A%22O08586%22%7D%5D%2C%22transcriptId%22%3A%22NM_000314.8%22%2C%22sideBySide%22%3Atrue%2C%22connectedView%22%3A%7B%22assembly%22%3A%22hg38%22%2C%22loc%22%3A%22chr10%3A87%2C863%2C625-87%2C971%2C930%22%2C%22tracks%22%3A%5B%22hg38-ncbiRefSeqSelect%22%5D%7D%7D%5D%7D
-[braf]: https://staging.genomes.jbrowse.org/protein-browser/?gene=BRAF
+[braf]: https://genomes.jbrowse.org/protein-browser/?gene=BRAF
