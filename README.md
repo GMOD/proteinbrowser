@@ -4,12 +4,29 @@
 - **Out:** a linked JBrowse 2 session with exons, a 3-D structure and a cross-species protein alignment
 
 **[Try the Protein Browser](https://genomes.jbrowse.org/protein-browser/)**, or open
-[PTEN](https://genomes.jbrowse.org/protein-browser/?gene=PTEN) directly.
-Hover a residue and its codon lights up in every view.
+[TP53 on R248](https://genomes.jbrowse.org/protein-browser/?gene=TP53&ref=9606&residue=248&structure=3kmd),
+a cancer hotspot.
 
-[![The session the Protein Browser builds for PTEN: hg38 with the introns collapsed, the 100-way vertebrate alignment, and the AlphaFold model, all linked](img/1.png)](https://genomes.jbrowse.org/protein-browser/?gene=PTEN)
+A missense variant changes one codon. What it does depends on where the residue
+sits in the fold and how conserved it is across related proteins. The session
+puts the codon, the structure and the alignment side by side, linked.
 
-![The JBrowseMSA gene launcher, resolving PTEN to a transcript and an alignment before opening JBrowse (not deployed yet)](img/2.png)
+![Hovering a coding position in the genome view moves the highlight to one alignment column and one residue on the AlphaFold structure](img/hover.gif)
+
+[![TP53 R248 as the Protein Browser opens it: coding exons over ClinVar and AlphaMissense, the P53 family alignment with R248 marked, and 3KMD colored by AlphaMissense](img/tp53_r248.png)](https://genomes.jbrowse.org/protein-browser/?gene=TP53&ref=9606&residue=248&structure=3kmd)
+
+Add any JBrowse track beside the codon and more than one structure beside the
+gene. KRAS G12C, in wild type, G12C and G12C bound to sotorasib:
+
+![KRAS codon 12 with its single-base missense changes above the KRAS surface in wild type (4OBE), G12C (4LDJ) and G12C with sotorasib (6OIM)](img/kras_g12c.png)
+
+## Tutorials
+
+- [genomes.jbrowse.org proteins](https://jbrowse.org/jb2/docs/tutorials/genomes_proteins/) — the Protein Browser, and the right-click launcher on any gene
+- [TP53 R248 and R273 on DNA](https://jbrowse.org/jb2/docs/tutorials/protein_variants_tp53/)
+- [KRAS G12 in the GTP pocket](https://jbrowse.org/jb2/docs/tutorials/protein_variants_kras/)
+- [BRAF V600 in the activation loop](https://jbrowse.org/jb2/docs/tutorials/protein_variants_braf/)
+- [Sickle cell, from GWAS hit to haemoglobin S](https://jbrowse.org/jb2/docs/tutorials/protein_variants_sickle_cell/)
 
 ## More
 
