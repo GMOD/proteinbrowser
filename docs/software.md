@@ -8,6 +8,7 @@
 | [jbrowse-plugin-msaview](https://github.com/GMOD/jbrowse-plugin-msaview)     | JBrowseMSA inside JBrowse 2, with NCBI BLAST and ortholog workflows          |
 | [JBrowseMSA](https://github.com/GMOD/JBrowseMSA)                             | The MSA viewer: a React component, also a script tag, an R package and a CLI |
 | [g2p_mapper](https://github.com/GMOD/g2p_mapper)                             | Genome-to-protein mapper: transcript CDS ↔ structure residues                |
+| [p2s_mapper](https://github.com/GMOD/p2s_mapper)                             | Protein sequence to structure mapper                                         |
 | [msa-viewer-bench](https://github.com/GMOD/msa-viewer-bench)                 | Benchmark harness behind Supplementary Figure 1 and Table 1                  |
 | [jbrowse-components](https://github.com/GMOD/jbrowse-components)             | JBrowse 2 itself, which the two plugins extend                               |
 

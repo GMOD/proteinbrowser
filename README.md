@@ -28,14 +28,25 @@ gene. KRAS G12C, in wild type, G12C and G12C bound to sotorasib:
 - [BRAF V600 in the activation loop](https://jbrowse.org/jb2/docs/tutorials/protein_variants_braf/)
 - [Sickle cell, from GWAS hit to haemoglobin S](https://jbrowse.org/jb2/docs/tutorials/protein_variants_sickle_cell/)
 
-## More
+## Figures
 
-- [genomes.jbrowse.org](https://genomes.jbrowse.org) — JBrowse 2 for every UCSC genome; right-click a gene to launch a protein view ([tutorial](https://jbrowse.org/jb2/docs/tutorials/genomes_proteins/))
+- [Gallery](docs/gallery.md) — 13 live sessions: TP53, KRAS, BRAF, BRCA1, CCR5 and more
+- [The paper's figures](docs/figures.md)
+
+## Libraries
+
+- [g2p_mapper](https://github.com/GMOD/g2p_mapper) — maps a transcript's coding positions to structure residues
+- [p2s_mapper](https://github.com/GMOD/p2s_mapper) — maps a protein sequence to a structure
+- [jbrowse-plugin-protein3d](https://github.com/GMOD/jbrowse-plugin-protein3d) — Mol\* structure views in JBrowse 2
+- [jbrowse-plugin-msaview](https://github.com/GMOD/jbrowse-plugin-msaview) — JBrowseMSA inside JBrowse 2
+- [JBrowseMSA docs](https://gmod.org/JBrowseMSA/)
+- [All repositories and data services](docs/software.md)
+
+## Related browsers
+
+- [genomes.jbrowse.org](https://genomes.jbrowse.org) — JBrowse 2 for every UCSC genome; right-click a gene to launch a protein view
 - [Ensembl Compara and TreeFam browser](https://jbrowse.org/demos/msafam/) — gene trees and alignments, JBrowseMSA standalone
 - [Uniprot Browser](https://cmdcolin.github.io/uniprot_browser) — UniProt protein annotations
-- [The paper's figures](docs/figures.md)
-- [Software and data services](docs/software.md)
-- [JBrowseMSA docs](https://gmod.org/JBrowseMSA/)
 
 ## Cite
 
