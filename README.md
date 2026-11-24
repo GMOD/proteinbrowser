@@ -11,9 +11,16 @@ A missense variant changes one codon. What it does depends on where the residue
 sits in the fold and how conserved it is across related proteins. The session
 puts the codon, the structure and the alignment side by side, linked.
 
-![Hovering the TP53 R248 codon in the genome view, over ClinVar and AlphaMissense, marks that residue on the DNA-bound p53 structure](img/hover.gif)
+Hovering the R248 codon in the genome view marks residue 248 on the p53 core
+domain beside it.
 
-[![TP53 R248 as the Protein Browser opens it: coding exons over ClinVar and AlphaMissense, the P53 family alignment with R248 marked, and 3KMD colored by AlphaMissense](img/tp53_r248.png)](https://genomes.jbrowse.org/protein-browser/?gene=TP53&ref=9606&residue=248&structure=3kmd)
+![Hovering the TP53 R248 codon in the genome view, over ClinVar, marks residue 248 on the p53 core domain](img/hover.gif)
+
+The views share one transcript. A base in a coding exon maps to a codon, which
+maps to a residue of the structure and a column of the alignment, and a base in
+an intron maps to none of them. [g2p_mapper](https://github.com/GMOD/g2p_mapper)
+does the mapping from transcript to structure residue. The Protein Browser opens
+all three views for any gene.
 
 Add any JBrowse track beside the codon and more than one structure beside the
 gene. KRAS G12C, in wild type, G12C and G12C bound to sotorasib:
