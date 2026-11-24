@@ -11,10 +11,10 @@ A missense variant changes one codon. What it does depends on where the residue
 sits in the fold and how conserved it is across related proteins. The session
 puts the codon, the structure and the alignment side by side, linked.
 
-Hovering the R248 codon in the genome view marks residue 248 on the p53 core
-domain beside it.
+Hovering the R248 codon in the genome view, above its five single-base missense
+changes, marks residue 248 on the p53 core domain beside it.
 
-![Hovering the TP53 R248 codon in the genome view, over ClinVar, marks residue 248 on the p53 core domain](img/hover.gif)
+![Hovering the TP53 R248 codon in the genome view, above its five single-base missense changes, marks residue 248 on the p53 core domain](img/hover.gif)
 
 The views share one transcript. A base in a coding exon maps to a codon, which
 maps to a residue of the structure and a column of the alignment, and a base in
