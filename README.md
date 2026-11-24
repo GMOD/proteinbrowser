@@ -11,7 +11,7 @@ A missense variant changes one codon. What it does depends on where the residue
 sits in the fold and how conserved it is across related proteins. The session
 puts the codon, the structure and the alignment side by side, linked.
 
-![Hovering a coding position in the genome view moves the highlight to one alignment column and one residue on the AlphaFold structure](img/hover.gif)
+![Hovering the TP53 R248 codon in the genome view, over ClinVar and AlphaMissense, marks that residue on the DNA-bound p53 structure](img/hover.gif)
 
 [![TP53 R248 as the Protein Browser opens it: coding exons over ClinVar and AlphaMissense, the P53 family alignment with R248 marked, and 3KMD colored by AlphaMissense](img/tp53_r248.png)](https://genomes.jbrowse.org/protein-browser/?gene=TP53&ref=9606&residue=248&structure=3kmd)
 
